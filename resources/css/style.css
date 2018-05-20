@@ -11,3 +11,28 @@ body {
   color: khaki;
   text-align: center;
 }
+
+.Title {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.Brushes {
+  background-color: mediumspringgreen;
+}
+
+.Frames {
+  background-color: lightcoral;
+}
+
+.Paint {
+  background-color: skyblue;
+}
+
+.price {
+  color: blue;
+  background: none;
+  font-weight: bold;
+}
